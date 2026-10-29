@@ -1,0 +1,16 @@
+<svg width="720" height="560" viewBox="0 0 720 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>GoodFind backpack with a location marker</title>
+  <path d="M104 487C173 438 248 429 334 449C430 471 517 452 616 479" stroke="#B7D4B5" stroke-width="8" stroke-linecap="round"/>
+  <path d="M157 443C117 396 119 339 151 298M177 435C176 385 202 348 235 326M563 444C602 400 604 350 580 310M541 439C544 392 522 354 491 331" stroke="#6F9F76" stroke-width="8" stroke-linecap="round"/>
+  <path d="M150 303C123 272 128 236 160 220C183 244 179 278 150 303ZM235 327C226 288 246 255 285 252C289 288 271 318 235 327ZM580 310C610 276 604 242 576 225C550 251 554 284 580 310ZM491 332C500 292 480 260 442 256C438 292 457 321 491 332Z" fill="#C7DFC1"/>
+  <path d="M275 166C275 116 307 86 360 86C413 86 445 116 445 166" stroke="#164F3B" stroke-width="20" stroke-linecap="round"/>
+  <path d="M239 179C239 147 265 126 302 126H418C455 126 481 147 481 179L506 410C509 444 482 469 448 469H272C238 469 211 444 214 410L239 179Z" fill="#277457" stroke="#123F30" stroke-width="10"/>
+  <path d="M263 191C263 163 280 147 307 147H413C440 147 457 163 457 191L471 359H249L263 191Z" fill="#3B8963"/>
+  <path d="M257 353H463V418C463 439 446 453 425 453H295C274 453 257 439 257 418V353Z" fill="#1C5C44" stroke="#123F30" stroke-width="8"/>
+  <path d="M302 353V327C302 304 321 285 344 285H376C399 285 418 304 418 327V353" stroke="#B6D5B4" stroke-width="9" stroke-linecap="round"/>
+  <path d="M285 189H435" stroke="#B6D5B4" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+  <path d="M252 231C222 245 207 277 213 322M468 231C498 245 513 277 507 322" stroke="#164F3B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M520 171C520 129 552 96 592 96C632 96 664 129 664 171C664 222 592 278 592 278C592 278 520 222 520 171Z" fill="#F7C260" stroke="#164F3B" stroke-width="9"/>
+  <circle cx="592" cy="164" r="20" fill="#164F3B"/>
+  <path d="M592 154V174M582 164H602" stroke="#F7F6EE" stroke-width="6" stroke-linecap="round"/>
+</svg>

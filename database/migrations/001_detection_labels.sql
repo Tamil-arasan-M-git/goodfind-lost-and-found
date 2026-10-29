@@ -1,0 +1,6 @@
+BEGIN;
+
+ALTER TABLE items
+    ADD COLUMN IF NOT EXISTS detection_labels TEXT[] NOT NULL DEFAULT '{}'::TEXT[];
+
+COMMIT;

@@ -1,0 +1,6 @@
+fastapi
+psycopg[binary]
+pwdlib[argon2]
+python-multipart>=0.0.20
+Pillow>=10.0.0
+ultralytics>=8.3.0

@@ -1,0 +1,59 @@
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Database backups
+database/backups/
+*.dump
+*.sql.gz
+
+# Python environments and caches
+venv/
+venv_rebuilt/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Local datasets and item images
+GoodFind_Dataset/
+item-images/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local test output
+backend/test-results-*.log
+
+# Accidental empty placeholders
+backend/python
+backend/uvicorn
+frontend/items.py
+
+# Generated report renders and contact sheets
+docs/goodfind_report_render/
+docs/resolvex_render/
+
+# Generated frontend build output
+frontend/dist/
+
+# Local project structure dump
+structure.txt
+
+# Project reports: review for personal information before publishing
+docs/*.pdf
+docs/*.docx
+backend/test-results.latest.log
